@@ -312,12 +312,12 @@
         "Code": "849-1"
       },
       "Front": {
-        "LineBottom": "Fanory Mill ? Conby ? Satus ? Dovedale E.",
+        "LineBottom": "Fanory Mill > Conby > Satus > Dovedale E.",
         "Line": "",
         "Route": "849",
         "LineTop": "Dovedale E.",
         "Message": {
-          "BackgroundColor": null,
+          "BackgroundColor": "99, 127, 188",
           "Text": ""
         }
       },
@@ -333,12 +333,12 @@
         "RouteId": "84576725502586"
       },
       "Side": {
-        "LineBottom": "Fanory Mill ? Conby ? Satus ? Dovedale E.",
+        "LineBottom": "Fanory Mill > Conby > Satus > Dovedale E.",
         "Line": "",
         "Route": "849",
         "LineTop": "Dovedale E.",
         "Message": {
-          "BackgroundColor": null,
+          "BackgroundColor": "99, 127, 188",
           "Text": ""
         }
       }
@@ -602,6 +602,44 @@
         "LineBottom": "DC ? MC ? MS ? CC ? DC",
         "Line": "",
         "Route": "404",
+        "LineTop": "Dovedale West Loop",
+        "Message": {
+          "BackgroundColor": "244, 202, 96",
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "DOVEDALE WEST LOOP",
+        "Code": "404B"
+      },
+      "Front": {
+        "LineBottom": "DC > CC > MS > MC > DC",
+        "Line": "",
+        "Route": "404B",
+        "LineTop": "Dovedale West Loop",
+        "Message": {
+          "BackgroundColor": "244, 202, 96",
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "404B"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "129132424344941",
+        "LDestinationId": "",
+        "MainId": "134300230025566",
+        "RDestinationId": "95871877464911",
+        "SideRouteStickerId": "114810917913566",
+        "RouteId": "121866200086113"
+      },
+      "Side": {
+        "LineBottom": "DC > CC > MS > MC > DC",
+        "Line": "",
+        "Route": "404B",
         "LineTop": "Dovedale West Loop",
         "Message": {
           "BackgroundColor": "244, 202, 96",
