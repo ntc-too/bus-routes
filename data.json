@@ -575,12 +575,12 @@
       "Map": "",
       "Driver": {
         "Display": "DOVEDALE WEST LOOP",
-        "Code": "404"
+        "Code": "404A"
       },
       "Front": {
         "LineBottom": "DC > MC > MS > CC > DC",
         "Line": "",
-        "Route": "404",
+        "Route": "404A",
         "LineTop": "Dovedale West Loop",
         "Message": {
           "BackgroundColor": "244, 202, 96",
@@ -588,7 +588,7 @@
         }
       },
       "Rear": {
-        "Route": "404"
+        "Route": "404A"
       },
       "Livery": {
         "GlassRouteStickerId": "129132424344941",
@@ -601,7 +601,7 @@
       "Side": {
         "LineBottom": "DC > MC > MS > CC > DC",
         "Line": "",
-        "Route": "404",
+        "Route": "404A",
         "LineTop": "Dovedale West Loop",
         "Message": {
           "BackgroundColor": "244, 202, 96",
