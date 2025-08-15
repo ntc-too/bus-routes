@@ -43,7 +43,7 @@
       "Map": "",
       "Driver": {
         "Display": "NOT IN SERVICE",
-        "Code": "????"
+        "Code": "NIS"
       },
       "Front": {
         "LineBottom": "",
@@ -81,7 +81,7 @@
       "Map": "",
       "Driver": {
         "Display": "RAIL REPLACEMENT",
-        "Code": "????"
+        "Code": "RR"
       },
       "Front": {
         "LineBottom": "Choo Choo! I'm a train!",
@@ -119,7 +119,7 @@
       "Map": "",
       "Driver": {
         "Display": "TEST RUN",
-        "Code": "????"
+        "Code": "TR"
       },
       "Front": {
         "LineBottom": "",
@@ -157,10 +157,10 @@
       "Map": "",
       "Driver": {
         "Display": "BUS FULL",
-        "Code": "????"
+        "Code": "FULL"
       },
       "Front": {
-        "LineBottom": "????",
+        "LineBottom": "Please ride the next bus.",
         "Line": "",
         "Route": "X",
         "LineTop": "Bus Full",
@@ -181,7 +181,7 @@
         "RouteId": ""
       },
       "Side": {
-        "LineBottom": "????",
+        "LineBottom": "Please ride the next bus.",
         "Line": "",
         "Route": "X",
         "LineTop": "Bus Full",
@@ -195,7 +195,7 @@
       "Map": "",
       "Driver": {
         "Display": "TRAINING BUS",
-        "Code": "?????"
+        "Code": "TB"
       },
       "Front": {
         "LineBottom": "",
@@ -233,7 +233,7 @@
       "Map": "",
       "Driver": {
         "Display": "SPECIAL",
-        "Code": "????"
+        "Code": "SS"
       },
       "Front": {
         "LineBottom": "",
