@@ -1,1 +1,765 @@
-{}
+{
+  "routes": [
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "",
+        "Code": "OFF"
+      },
+      "Front": {
+        "LineBottom": "",
+        "Line": "",
+        "Route": "",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": ""
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "",
+        "Line": "",
+        "Route": "",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "NOT IN SERVICE",
+        "Code": "????"
+      },
+      "Front": {
+        "LineBottom": "",
+        "Line": "",
+        "Route": "",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": "Not in Service"
+        }
+      },
+      "Rear": {
+        "Route": "NIS"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "",
+        "Line": "",
+        "Route": "",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": "Not in Service"
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "RAIL REPLACEMENT",
+        "Code": "????"
+      },
+      "Front": {
+        "LineBottom": "Choo Choo! I'm a train!",
+        "Line": "",
+        "Route": "RR",
+        "LineTop": "Rail Replacement",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "RR"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "Choo Choo! I'm a train!",
+        "Line": "",
+        "Route": "RR",
+        "LineTop": "Rail Replacement",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "TEST RUN",
+        "Code": "????"
+      },
+      "Front": {
+        "LineBottom": "",
+        "Line": "",
+        "Route": "",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": "Test Run"
+        }
+      },
+      "Rear": {
+        "Route": "Test Run"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "",
+        "Line": "",
+        "Route": "",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": "Test Run"
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "BUS FULL",
+        "Code": "????"
+      },
+      "Front": {
+        "LineBottom": "????",
+        "Line": "",
+        "Route": "X",
+        "LineTop": "Bus Full",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "X"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "????",
+        "Line": "",
+        "Route": "X",
+        "LineTop": "Bus Full",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "TRAINING BUS",
+        "Code": "?????"
+      },
+      "Front": {
+        "LineBottom": "",
+        "Line": "",
+        "Route": "",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": "Training Bus"
+        }
+      },
+      "Rear": {
+        "Route": "Training"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "",
+        "Line": "",
+        "Route": "",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": "Training Bus"
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "SPECIAL",
+        "Code": "????"
+      },
+      "Front": {
+        "LineBottom": "",
+        "Line": "",
+        "Route": "",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": "Special"
+        }
+      },
+      "Rear": {
+        "Route": "Special"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "",
+        "Line": "",
+        "Route": "",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": "Special"
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "SATUS STN. (LOOP)",
+        "Code": "S01"
+      },
+      "Front": {
+        "LineBottom": "Satus ? Conby ? Jaiden's H. ? Satus",
+        "Line": "",
+        "Route": "S01",
+        "LineTop": "Satus Stn. (LOOP)",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "S01"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "123985906716163",
+        "LDestinationId": "",
+        "MainId": "",
+        "RDestinationId": "",
+        "SideRouteStickerId": "72588779475967",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "Satus ? Conby ? Jaiden's H. ? Satus",
+        "Line": "",
+        "Route": "S01",
+        "LineTop": "Satus Stn. (LOOP)",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "DOVEDALE E.",
+        "Code": "849-1"
+      },
+      "Front": {
+        "LineBottom": "Fanory Mill ? Conby ? Satus ? Dovedale E.",
+        "Line": "",
+        "Route": "849",
+        "LineTop": "Dovedale E.",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "849"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "127540146486104",
+        "MainId": "108747303769171",
+        "RDestinationId": "120266108179565",
+        "SideRouteStickerId": "",
+        "RouteId": "84576725502586"
+      },
+      "Side": {
+        "LineBottom": "Fanory Mill ? Conby ? Satus ? Dovedale E.",
+        "Line": "",
+        "Route": "849",
+        "LineTop": "Dovedale E.",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "FANORY MILL",
+        "Code": "849-2"
+      },
+      "Front": {
+        "LineBottom": "Dovedale E ? Satus ? Conby ? Fanory Mill",
+        "Line": "",
+        "Route": "849",
+        "LineTop": "Fanory Mill",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "849"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "127540146486104",
+        "MainId": "108747303769171",
+        "RDestinationId": "120266108179565",
+        "SideRouteStickerId": "",
+        "RouteId": "84576725502586"
+      },
+      "Side": {
+        "LineBottom": "Dovedale E ? Satus ? Conby ? Fanory Mill",
+        "Line": "",
+        "Route": "849",
+        "LineTop": "Fanory Mill",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "TEST",
+        "Code": "???"
+      },
+      "Front": {
+        "LineBottom": "",
+        "Line": "",
+        "Route": "",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": "||||||||||||||||||||||||||||"
+        }
+      },
+      "Rear": {
+        "Route": "|||||||||||"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "",
+        "Line": "",
+        "Route": "",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": "||||||||||||||||||||||||||||"
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "Ashburn Express",
+        "Code": "783-1"
+      },
+      "Front": {
+        "LineBottom": "Mazewood ? Gleethrop ? Dovedale E. ? Ashburn",
+        "Line": "",
+        "Route": "783",
+        "LineTop": "Ashburn",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "783"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "134300230025566",
+        "RDestinationId": "89165955703553",
+        "SideRouteStickerId": "",
+        "RouteId": "89550425659410"
+      },
+      "Side": {
+        "LineBottom": "Mazewood ? Gleethrop ? Dovedale E. ? Ashburn",
+        "Line": "",
+        "Route": "783",
+        "LineTop": "Ashburn",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "Mazewood Express",
+        "Code": "783-2"
+      },
+      "Front": {
+        "LineBottom": "Ashburn ? Dovedale E. ? Gleethrop ? Mazewood",
+        "Line": "",
+        "Route": "783",
+        "LineTop": "Mazewood",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "783"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "134300230025566",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "Ashburn ? Dovedale E. ? Gleethrop ? Mazewood",
+        "Line": "",
+        "Route": "783",
+        "LineTop": "Mazewood",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "Fanory Mill ST",
+        "Code": "783-3"
+      },
+      "Front": {
+        "LineBottom": "Mazewood ? Gleethrop ? Dovedale E.",
+        "Line": "",
+        "Route": "783-1",
+        "LineTop": "Dovedale E. (S)",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "783-1"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "92770008462574",
+        "RDestinationId": "89165955703553",
+        "SideRouteStickerId": "",
+        "RouteId": "89550425659410"
+      },
+      "Side": {
+        "LineBottom": "Mazewood ? Gleethrop ? Dovedale E.",
+        "Line": "",
+        "Route": "783-1",
+        "LineTop": "Dovedale E. (S)",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "FORWARDING",
+        "Code": "??"
+      },
+      "Front": {
+        "LineBottom": "",
+        "Line": "",
+        "Route": "",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": "To Starting Point"
+        }
+      },
+      "Rear": {
+        "Route": "NIS"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "",
+        "Line": "",
+        "Route": "",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": "To Starting Point"
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "DOVEDALE WEST LOOP",
+        "Code": "404"
+      },
+      "Front": {
+        "LineBottom": "DC ? MC ? MS ? CC ? DC",
+        "Line": "",
+        "Route": "404",
+        "LineTop": "Dovedale West Loop",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "404"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "129132424344941",
+        "LDestinationId": "",
+        "MainId": "134300230025566",
+        "RDestinationId": "95871877464911",
+        "SideRouteStickerId": "114810917913566",
+        "RouteId": "121866200086113"
+      },
+      "Side": {
+        "LineBottom": "DC ? MC ? MS ? CC ? DC",
+        "Line": "",
+        "Route": "404",
+        "LineTop": "Dovedale West Loop",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "MAZEWOOD",
+        "Code": "W01-1"
+      },
+      "Front": {
+        "LineBottom": "SAT ? DE ? DC ? GE ? MW",
+        "Line": "",
+        "Route": "W01",
+        "LineTop": "Mazewood",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "W01"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "139714560672946",
+        "RDestinationId": "122844502258118",
+        "SideRouteStickerId": "",
+        "RouteId": "116364705242347"
+      },
+      "Side": {
+        "LineBottom": "SAT ? DE ? DC ? GE ? MW",
+        "Line": "",
+        "Route": "W01",
+        "LineTop": "Mazewood",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "SATUS",
+        "Code": "W01-2"
+      },
+      "Front": {
+        "LineBottom": "MW ? GE ? DC ? DE ? SAT",
+        "Line": "",
+        "Route": "W01",
+        "LineTop": "Satus",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "W01"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "139714560672946",
+        "RDestinationId": "122844502258118",
+        "SideRouteStickerId": "",
+        "RouteId": "116364705242347"
+      },
+      "Side": {
+        "LineBottom": "MW ? GE ? DC ? DE ? SAT",
+        "Line": "",
+        "Route": "W01",
+        "LineTop": "Satus",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "MAZEWOOD",
+        "Code": "W02-1"
+      },
+      "Front": {
+        "LineBottom": "MS ? CC ? GE ? MW",
+        "Line": "",
+        "Route": "W02",
+        "LineTop": "Mazewood",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "W02"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "139714560672946",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "MS ? CC ? GE ? MW",
+        "Line": "",
+        "Route": "W02",
+        "LineTop": "Mazewood",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "MASONFIELD",
+        "Code": "W02-2"
+      },
+      "Front": {
+        "LineBottom": "MW ? GE ? CC ? MS",
+        "Line": "",
+        "Route": "W02",
+        "LineTop": "Masonfield",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "W02"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "139714560672946",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "MW ? GE ? CC ? MS",
+        "Line": "",
+        "Route": "W02",
+        "LineTop": "Masonfield",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    }
+  ],
+  "version": 2
+}
