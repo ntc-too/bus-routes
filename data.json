@@ -874,6 +874,44 @@
           "Text": ""
         }
       }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "DOVEDALE SHUTTLE",
+        "Code": "E02"
+      },
+      "Front": {
+        "LineBottom": "",
+        "Line": "Dovedale Shuttle",
+        "Route": "E02",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": "244, 202, 96",
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "E02"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "134300230025566",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "Dovedale East <> Dovedale Central",
+        "Line": "",
+        "Route": "E02",
+        "LineTop": "Dovedale Shuttle",
+        "Message": {
+          "BackgroundColor": "244, 202, 96",
+          "Text": ""
+        }
+      }
     }
   ]
 }
