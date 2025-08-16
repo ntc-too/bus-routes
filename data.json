@@ -1,5 +1,5 @@
 {
-  "version": 2.2,
+  "version": 2.3,
   "routes": [
     {
       "Map": "",
@@ -795,6 +795,82 @@
         "LineTop": "Masonfield",
         "Message": {
           "BackgroundColor": "0, 85, 0",
+          "Text": ""
+          }
+        }
+      },
+      {
+      "Map": "",
+      "Driver": {
+        "Display": "DOVEDALE C.",
+        "Code": "E01-1"
+      },
+      "Front": {
+        "LineBottom": "DE > DE Signalling Box > DC",
+        "Line": "",
+        "Route": "E01",
+        "LineTop": "Dovedale Central",
+        "Message": {
+          "BackgroundColor": "244, 202, 96",
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "E01"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "134300230025566",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "DE > DE Signalling Box > DC",
+        "Line": "",
+        "Route": "E01",
+        "LineTop": "Dovedale Central",
+        "Message": {
+          "BackgroundColor": "244, 202, 96",
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "DOVEDALE E.",
+        "Code": "E01-2"
+      },
+      "Front": {
+        "LineBottom": "DC > DE Signalling Box > DE",
+        "Line": "",
+        "Route": "E01",
+        "LineTop": "Dovedale East",
+        "Message": {
+          "BackgroundColor": "244, 202, 96",
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "E01"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "134300230025566",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "DC > DE Signalling Box > DE",
+        "Line": "",
+        "Route": "E01",
+        "LineTop": "Dovedale East",
+        "Message": {
+          "BackgroundColor": "244, 202, 96",
           "Text": ""
         }
       }
