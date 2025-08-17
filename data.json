@@ -1,5 +1,5 @@
 {
-  "version": 2.4,
+  "version": 2.5,
   "routes": [
     {
       "Map": "",
@@ -299,6 +299,82 @@
         "Line": "",
         "Route": "S01",
         "LineTop": "Satus Stn. (LOOP)",
+        "Message": {
+          "BackgroundColor": "105, 204, 121",
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "SAT - FM SHUTTLE",
+        "Code": "S02"
+      },
+      "Front": {
+        "LineBottom": "",
+        "Line": "Satus - Fanory Mill Shuttle",
+        "Route": "S02",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": "105, 204, 121",
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "S02"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "",
+        "Line": "Satus - Fanory Mill Shuttle",
+        "Route": "S02",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": "105, 204, 121",
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "SAT - DE SHUTTLE",
+        "Code": "S03"
+      },
+      "Front": {
+        "LineBottom": "",
+        "Line": "Satus - Dovedale E. Shuttle",
+        "Route": "S03",
+        "LineTop": "",
+        "Message": {
+          "BackgroundColor": "105, 204, 121",
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "S03"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "",
+        "Line": "Satus - Dovedale E. Shuttle",
+        "Route": "S03",
+        "LineTop": "",
         "Message": {
           "BackgroundColor": "105, 204, 121",
           "Text": ""
