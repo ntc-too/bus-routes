@@ -1,5 +1,5 @@
 {
-  "version": 2.5,
+  "version": 2.6,
   "routes": [
     {
       "Map": "",
@@ -270,37 +270,37 @@
     {
       "Map": "",
       "Driver": {
-        "Display": "SATUS STN. (LOOP)",
-        "Code": "S01"
+        "Display": "Fanory Mill",
+        "Code": "360-1"
       },
       "Front": {
-        "LineBottom": "Satus > Conby > Jaiden's H. > Satus",
+        "LineBottom": "Satus > Conby > Fanory Mill",
         "Line": "",
-        "Route": "S01",
-        "LineTop": "Satus Stn. (LOOP)",
+        "Route": "360",
+        "LineTop": "Fanory Mill",
         "Message": {
-          "BackgroundColor": "105, 204, 121",
+          "BackgroundColor": "60, 199, 196",
           "Text": ""
         }
       },
       "Rear": {
-        "Route": "S01"
+        "Route": "360"
       },
       "Livery": {
         "GlassRouteStickerId": "123985906716163",
-        "LDestinationId": "",
-        "MainId": "",
-        "RDestinationId": "",
+        "LDestinationId": "109900164061936",
+        "MainId": "123316732177201",
+        "RDestinationId": "90271534050958",
         "SideRouteStickerId": "72588779475967",
-        "RouteId": ""
+        "RouteId": "86263913916037"
       },
       "Side": {
-        "LineBottom": "Satus > Conby > Jaiden's H. > Satus",
+        "LineBottom": "Satus > Conby > Fanory Mill",
         "Line": "",
-        "Route": "S01",
-        "LineTop": "Satus Stn. (LOOP)",
+        "Route": "360",
+        "LineTop": "Fanory Mill",
         "Message": {
-          "BackgroundColor": "105, 204, 121",
+          "BackgroundColor": "60, 199, 196",
           "Text": ""
         }
       }
@@ -308,37 +308,37 @@
     {
       "Map": "",
       "Driver": {
-        "Display": "SAT - FM SHUTTLE",
-        "Code": "S02"
+        "Display": "Satus (Turnaround)",
+        "Code": "360-2"
       },
       "Front": {
-        "LineBottom": "",
-        "Line": "Satus - Fanory Mill Shuttle",
-        "Route": "S02",
-        "LineTop": "",
+        "LineBottom": "Fanory Mill > Conby > Satus",
+        "Line": "",
+        "Route": "360",
+        "LineTop": "Satus (Turnaround)",
         "Message": {
-          "BackgroundColor": "105, 204, 121",
+          "BackgroundColor": "60, 199, 196",
           "Text": ""
         }
       },
       "Rear": {
-        "Route": "S02"
+        "Route": "360"
       },
       "Livery": {
-        "GlassRouteStickerId": "",
-        "LDestinationId": "",
-        "MainId": "",
-        "RDestinationId": "",
-        "SideRouteStickerId": "",
-        "RouteId": ""
+        "GlassRouteStickerId": "123985906716163",
+        "LDestinationId": "109900164061936",
+        "MainId": "123316732177201",
+        "RDestinationId": "90271534050958",
+        "SideRouteStickerId": "72588779475967",
+        "RouteId": "86263913916037"
       },
       "Side": {
-        "LineBottom": "",
-        "Line": "Satus - Fanory Mill Shuttle",
-        "Route": "S02",
-        "LineTop": "",
+        "LineBottom": "Fanory Mill > Conby > Satus",
+        "Line": "",
+        "Route": "360",
+        "LineTop": "Satus (Turnaround)",
         "Message": {
-          "BackgroundColor": "105, 204, 121",
+          "BackgroundColor": "60, 199, 196",
           "Text": ""
         }
       }
@@ -347,36 +347,36 @@
       "Map": "",
       "Driver": {
         "Display": "SAT - DE SHUTTLE",
-        "Code": "S03"
+        "Code": "360-3"
       },
       "Front": {
         "LineBottom": "",
         "Line": "Satus - Dovedale E. Shuttle",
-        "Route": "S03",
+        "Route": "360-1",
         "LineTop": "",
         "Message": {
-          "BackgroundColor": "105, 204, 121",
+          "BackgroundColor": "60, 199, 196",
           "Text": ""
         }
       },
       "Rear": {
-        "Route": "S03"
+        "Route": "360-1"
       },
       "Livery": {
         "GlassRouteStickerId": "",
         "LDestinationId": "",
-        "MainId": "",
+        "MainId": "123316732177201",
         "RDestinationId": "",
         "SideRouteStickerId": "",
-        "RouteId": ""
+        "RouteId": "86263913916037"
       },
       "Side": {
         "LineBottom": "",
         "Line": "Satus - Dovedale E. Shuttle",
-        "Route": "S03",
+        "Route": "360-1",
         "LineTop": "",
         "Message": {
-          "BackgroundColor": "105, 204, 121",
+          "BackgroundColor": "60, 199, 196",
           "Text": ""
         }
       }
