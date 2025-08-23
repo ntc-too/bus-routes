@@ -517,7 +517,7 @@
       "Livery": {
         "GlassRouteStickerId": "",
         "LDestinationId": "",
-        "MainId": "134300230025566",
+        "MainId": "92770008462574",
         "RDestinationId": "89165955703553",
         "SideRouteStickerId": "",
         "RouteId": "89550425659410"
@@ -555,10 +555,10 @@
       "Livery": {
         "GlassRouteStickerId": "",
         "LDestinationId": "",
-        "MainId": "134300230025566",
-        "RDestinationId": "",
+        "MainId": "92770008462574",
+        "RDestinationId": "89165955703553",
         "SideRouteStickerId": "",
-        "RouteId": ""
+        "RouteId": "89550425659410"
       },
       "Side": {
         "LineBottom": "Ashburn > Dovedale E. > Gleethrop > Mazewood",
@@ -601,7 +601,7 @@
       "Side": {
         "LineBottom": "Mazewood > Gleethrop > Dovedale E.",
         "Line": "",
-        "Route": "783",
+        "Route": "783-1",
         "LineTop": "Dovedale E. (S)",
         "Message": {
           "BackgroundColor": "97, 200, 255",
