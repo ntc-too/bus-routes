@@ -496,6 +496,82 @@
       }
     },
     {
+      "Map": "77867868715826",
+      "Driver": {
+        "Display": "Ashburn Loop",
+        "Code": "47-1"
+      },
+      "Front": {
+        "LineBottom": "Via Fisherman's Halt and Benyhone",
+        "Line": "",
+        "Route": "47-1",
+        "LineTop": "Ashburn (Loop)",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "47-1"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "80889824162966",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "Via Fisherman's Halt and Benyhone",
+        "Line": "",
+        "Route": "47-1",
+        "LineTop": "Ashburn (Loop)",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "77867868715826",
+      "Driver": {
+        "Display": "Ashburn Loop",
+        "Code": "47-2"
+      },
+      "Front": {
+        "LineBottom": "Via Benyhone and Fisherman's Halt",
+        "Line": "",
+        "Route": "47-2",
+        "LineTop": "Ashburn (Loop)",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "47-2"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "80889824162966",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
+      },
+      "Side": {
+        "LineBottom": "Via Ashburn and Fisherman's Halt",
+        "Line": "",
+        "Route": "47-2",
+        "LineTop": "Ashburn (Loop)",
+        "Message": {
+          "BackgroundColor": null,
+          "Text": ""
+        }
+      }
+    },
+    {
       "Map": "103645561067161",
       "Driver": {
         "Display": "Ashburn Express",
