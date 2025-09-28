@@ -934,17 +934,17 @@
       },
       "Livery": {
         "GlassRouteStickerId": "",
-        "LDestinationId": "",
+        "LDestinationId": "136049484786629",
         "MainId": "108788161365453",
-        "RDestinationId": "",
+        "RDestinationId": "138178387318182",
         "SideRouteStickerId": "",
-        "RouteId": ""
+        "RouteId": "105373751905372"
       },
       "Side": {
-        "LineBottom": "DE > DE Signalling Box > DC",
+        "LineBottom": "DE > DC > Marigot > Dam",
         "Line": "",
         "Route": "E01",
-        "LineTop": "Dovedale Central",
+        "LineTop": "Marigot Dam",
         "Message": {
           "BackgroundColor": "244, 202, 96",
           "Text": ""
@@ -972,11 +972,11 @@
       },
       "Livery": {
         "GlassRouteStickerId": "",
-        "LDestinationId": "",
-        "MainId": "134300230025566",
-        "RDestinationId": "",
+        "LDestinationId": "136049484786629",
+        "MainId": "108788161365453",
+        "RDestinationId": "138178387318182",
         "SideRouteStickerId": "",
-        "RouteId": ""
+        "RouteId": "105373751905372"
       },
       "Side": {
         "LineBottom": "Dam > Marigot > DC > DE",
