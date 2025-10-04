@@ -1,5 +1,5 @@
 {
-  "version": 2.8,
+  "version": 2.9,
   "routes": [
     {
       "Map": "",
@@ -287,11 +287,11 @@
         "Route": "360"
       },
       "Livery": {
-        "GlassRouteStickerId": "123655318822450",
+        "GlassRouteStickerId": "91007066880244",
         "LDestinationId": "109900164061936",
         "MainId": "123316732177201",
         "RDestinationId": "90271534050958",
-        "SideRouteStickerId": "73053267679112",
+        "SideRouteStickerId": "91007066880244",
         "RouteId": "86263913916037"
       },
       "Side": {
@@ -308,14 +308,14 @@
     {
       "Map": "92996414351159",
       "Driver": {
-        "Display": "Satus (Turnaround)",
+        "Display": "Satus",
         "Code": "360-2"
       },
       "Front": {
         "LineBottom": "Fanory Mill > Conby > Satus",
         "Line": "",
         "Route": "360",
-        "LineTop": "Satus (Turnaround)",
+        "LineTop": "Satus Station",
         "Message": {
           "BackgroundColor": "60, 199, 196",
           "Text": ""
@@ -325,18 +325,18 @@
         "Route": "360"
       },
       "Livery": {
-        "GlassRouteStickerId": "123655318822450",
+        "GlassRouteStickerId": "91007066880244",
         "LDestinationId": "109900164061936",
         "MainId": "123316732177201",
         "RDestinationId": "90271534050958",
-        "SideRouteStickerId": "73053267679112",
+        "SideRouteStickerId": "91007066880244",
         "RouteId": "86263913916037"
       },
       "Side": {
         "LineBottom": "Fanory Mill > Conby > Satus",
         "Line": "",
         "Route": "360",
-        "LineTop": "Satus (Turnaround)",
+        "LineTop": "Satus Station",
         "Message": {
           "BackgroundColor": "60, 199, 196",
           "Text": ""
@@ -346,14 +346,14 @@
     {
       "Map": "95486609897008",
       "Driver": {
-        "Display": "SAT - DE SHUTTLE",
+        "Display": "Satus Level Crossing",
         "Code": "360-3"
       },
       "Front": {
-        "LineBottom": "",
-        "Line": "Satus - Dovedale E. Shuttle",
+        "LineBottom": "DE Box > DE > Satus",
+        "Line": "",
         "Route": "360-1",
-        "LineTop": "",
+        "LineTop": "Satus Level Crossing",
         "Message": {
           "BackgroundColor": "60, 199, 196",
           "Text": ""
@@ -363,18 +363,56 @@
         "Route": "360-1"
       },
       "Livery": {
-        "GlassRouteStickerId": "",
-        "LDestinationId": "",
-        "MainId": "123316732177201",
-        "RDestinationId": "",
-        "SideRouteStickerId": "",
-        "RouteId": "86263913916037"
+        "GlassRouteStickerId": "78577101319083",
+        "LDestinationId": "90405303784926",
+        "MainId": "98331018832624",
+        "RDestinationId": "138706404947546",
+        "SideRouteStickerId": "78577101319083",
+        "RouteId": "89413086087890"
       },
       "Side": {
-        "LineBottom": "",
-        "Line": "Satus - Dovedale E. Shuttle",
+        "LineBottom": "DE Box > DE > Satus",
+        "Line": "",
         "Route": "360-1",
-        "LineTop": "",
+        "LineTop": "Satus Level Crossing",
+        "Message": {
+          "BackgroundColor": "60, 199, 196",
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "95486609897008",
+      "Driver": {
+        "Display": "Dovedale East Signal Box",
+        "Code": "360-4"
+      },
+      "Front": {
+        "LineBottom": "Satus > Dovedale East",
+        "Line": "",
+        "Route": "360-1",
+        "LineTop": "Dovedale East Box",
+        "Message": {
+          "BackgroundColor": "60, 199, 196",
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "360-1"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "78577101319083",
+        "LDestinationId": "90405303784926",
+        "MainId": "98331018832624",
+        "RDestinationId": "138706404947546",
+        "SideRouteStickerId": "78577101319083",
+        "RouteId": "89413086087890"
+      },
+      "Side": {
+        "LineBottom": "Satus > Dovedale East",
+        "Line": "",
+        "Route": "360-1",
+        "LineTop": "Dovedale East Box",
         "Message": {
           "BackgroundColor": "60, 199, 196",
           "Text": ""
