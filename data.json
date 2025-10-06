@@ -118,38 +118,38 @@
     {
       "Map": "77867868715826",
       "Driver": {
-        "Display": "TRAINING BUS",
-        "Code": "TB"
+        "Display": "Mod Bus",
+        "Code": "MOD"
       },
       "Front": {
         "LineBottom": "",
-        "Line": "",
-        "Route": "",
+        "Line": "Moderating Dovedale",
+        "Route": "MOD",
         "LineTop": "",
         "Message": {
-          "BackgroundColor": "249, 101, 98",
-          "Text": "Training Bus"
+          "BackgroundColor": "184, 85, 255",
+          "Text": ""
         }
       },
       "Rear": {
-        "Route": "Training"
+        "Route": "MOD"
       },
       "Livery": {
         "GlassRouteStickerId": "",
         "LDestinationId": "",
-        "MainId": "",
-        "RDestinationId": "",
+        "MainId": "86170297650321",
+        "RDestinationId": "93781708779563",
         "SideRouteStickerId": "",
-        "RouteId": ""
+        "RouteId": "72637508886397"
       },
       "Side": {
         "LineBottom": "",
-        "Line": "",
-        "Route": "",
+        "Line": "Moderating Dovedale",
+        "Route": "MOD",
         "LineTop": "",
         "Message": {
-          "BackgroundColor": "249, 101, 98",
-          "Text": "Training Bus"
+          "BackgroundColor": "184, 85, 255",
+          "Text": ""
         }
       }
     },
