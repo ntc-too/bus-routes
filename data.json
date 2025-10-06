@@ -42,44 +42,6 @@
     {
       "Map": "77867868715826",
       "Driver": {
-        "Display": "NOT IN SERVICE",
-        "Code": "NIS"
-      },
-      "Front": {
-        "LineBottom": "",
-        "Line": "",
-        "Route": "",
-        "LineTop": "",
-        "Message": {
-          "BackgroundColor": "249, 101, 98",
-          "Text": "Not in Service"
-        }
-      },
-      "Rear": {
-        "Route": "NIS"
-      },
-      "Livery": {
-        "GlassRouteStickerId": "",
-        "LDestinationId": "",
-        "MainId": "",
-        "RDestinationId": "",
-        "SideRouteStickerId": "",
-        "RouteId": ""
-      },
-      "Side": {
-        "LineBottom": "",
-        "Line": "",
-        "Route": "",
-        "LineTop": "",
-        "Message": {
-          "BackgroundColor": "249, 101, 98",
-          "Text": "Not in Service"
-        }
-      }
-    },
-    {
-      "Map": "77867868715826",
-      "Driver": {
         "Display": "RAIL REPLACEMENT",
         "Code": "RR"
       },
@@ -610,7 +572,7 @@
       }
     },
     {
-      "Map": "",
+      "Map": "74478473890638",
       "Driver": {
         "Display": "DOVEDALE WEST LOOP",
         "Code": "404A"
@@ -629,11 +591,11 @@
         "Route": "404A"
       },
       "Livery": {
-        "GlassRouteStickerId": "129132424344941",
+        "GlassRouteStickerId": "116029468489230",
         "LDestinationId": "",
         "MainId": "134300230025566",
         "RDestinationId": "95871877464911",
-        "SideRouteStickerId": "114810917913566",
+        "SideRouteStickerId": "116029468489230",
         "RouteId": "121866200086113"
       },
       "Side": {
@@ -648,7 +610,7 @@
       }
     },
     {
-      "Map": "",
+      "Map": "116029468489230",
       "Driver": {
         "Display": "DOVEDALE WEST LOOP",
         "Code": "404B"
@@ -667,11 +629,11 @@
         "Route": "404B"
       },
       "Livery": {
-        "GlassRouteStickerId": "129132424344941",
+        "GlassRouteStickerId": "116029468489230",
         "LDestinationId": "",
         "MainId": "134300230025566",
         "RDestinationId": "95871877464911",
-        "SideRouteStickerId": "114810917913566",
+        "SideRouteStickerId": "116029468489230",
         "RouteId": "121866200086113"
       },
       "Side": {
@@ -686,7 +648,7 @@
       }
     },
     {
-      "Map": "132872504962717",
+      "Map": "116084158853268",
       "Driver": {
         "Display": "MAZEWOOD",
         "Code": "W01-1"
@@ -705,11 +667,11 @@
         "Route": "W01"
       },
       "Livery": {
-        "GlassRouteStickerId": "",
+        "GlassRouteStickerId": "77626970022739",
         "LDestinationId": "",
         "MainId": "139714560672946",
         "RDestinationId": "122844502258118",
-        "SideRouteStickerId": "",
+        "SideRouteStickerId": "77626970022739",
         "RouteId": "116364705242347"
       },
       "Side": {
@@ -743,11 +705,11 @@
         "Route": "W01"
       },
       "Livery": {
-        "GlassRouteStickerId": "",
+        "GlassRouteStickerId": "77626970022739",
         "LDestinationId": "",
         "MainId": "139714560672946",
         "RDestinationId": "122844502258118",
-        "SideRouteStickerId": "",
+        "SideRouteStickerId": "77626970022739",
         "RouteId": "116364705242347"
       },
       "Side": {
@@ -781,11 +743,11 @@
         "Route": "W02"
       },
       "Livery": {
-        "GlassRouteStickerId": "",
+        "GlassRouteStickerId": "135132403808124",
         "LDestinationId": "131945181215961",
         "MainId": "110296171518032",
         "RDestinationId": "102882946853731",
-        "SideRouteStickerId": "",
+        "SideRouteStickerId": "135132403808124",
         "RouteId": "106229354317249"
       },
       "Side": {
@@ -819,11 +781,11 @@
         "Route": "W02"
       },
       "Livery": {
-        "GlassRouteStickerId": "",
+        "GlassRouteStickerId": "135132403808124",
         "LDestinationId": "131945181215961",
         "MainId": "110296171518032",
         "RDestinationId": "102882946853731",
-        "SideRouteStickerId": "",
+        "SideRouteStickerId": "135132403808124",
         "RouteId": "106229354317249"
       },
       "Side": {
@@ -857,11 +819,11 @@
         "Route": "E01"
       },
       "Livery": {
-        "GlassRouteStickerId": "",
+        "GlassRouteStickerId": "111515073123932",
         "LDestinationId": "136049484786629",
         "MainId": "108788161365453",
         "RDestinationId": "138178387318182",
-        "SideRouteStickerId": "",
+        "SideRouteStickerId": "111515073123932",
         "RouteId": "105373751905372"
       },
       "Side": {
@@ -895,11 +857,11 @@
         "Route": "E01"
       },
       "Livery": {
-        "GlassRouteStickerId": "",
+        "GlassRouteStickerId": "111515073123932",
         "LDestinationId": "136049484786629",
-        "MainId": "108788161365453",
+        "MainId": "134300230025566",
         "RDestinationId": "138178387318182",
-        "SideRouteStickerId": "",
+        "SideRouteStickerId": "111515073123932",
         "RouteId": "105373751905372"
       },
       "Side": {
@@ -933,11 +895,11 @@
         "Route": "E02"
       },
       "Livery": {
-        "GlassRouteStickerId": "",
+        "GlassRouteStickerId": "99475061243594",
         "LDestinationId": "",
         "MainId": "134300230025566",
         "RDestinationId": "",
-        "SideRouteStickerId": "",
+        "SideRouteStickerId": "99475061243594",
         "RouteId": ""
       },
       "Side": {
