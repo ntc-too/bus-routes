@@ -203,7 +203,7 @@
         "Route": "360",
         "LineTop": "Fanory Mill",
         "Message": {
-          "BackgroundColor": "60, 199, 196",
+          "BackgroundColor": "55, 125, 247",
           "Text": ""
         }
       },
@@ -224,7 +224,7 @@
         "Route": "360",
         "LineTop": "Fanory Mill",
         "Message": {
-          "BackgroundColor": "60, 199, 196",
+          "BackgroundColor": "55, 125, 247",
           "Text": ""
         }
       }
@@ -241,7 +241,7 @@
         "Route": "360",
         "LineTop": "Satus Station",
         "Message": {
-          "BackgroundColor": "60, 199, 196",
+          "BackgroundColor": "55, 125, 247",
           "Text": ""
         }
       },
@@ -262,7 +262,7 @@
         "Route": "360",
         "LineTop": "Satus Station",
         "Message": {
-          "BackgroundColor": "60, 199, 196",
+          "BackgroundColor": "55, 125, 247",
           "Text": ""
         }
       }
@@ -279,7 +279,7 @@
         "Route": "360-1",
         "LineTop": "Satus Level Crossing",
         "Message": {
-          "BackgroundColor": "60, 199, 196",
+          "BackgroundColor": "55, 125, 247",
           "Text": ""
         }
       },
@@ -300,7 +300,7 @@
         "Route": "360-1",
         "LineTop": "Satus Level Crossing",
         "Message": {
-          "BackgroundColor": "60, 199, 196",
+          "BackgroundColor": "55, 125, 247",
           "Text": ""
         }
       }
@@ -317,7 +317,7 @@
         "Route": "360-1",
         "LineTop": "Dovedale East Box",
         "Message": {
-          "BackgroundColor": "60, 199, 196",
+          "BackgroundColor": "55, 125, 247",
           "Text": ""
         }
       },
@@ -338,7 +338,7 @@
         "Route": "360-1",
         "LineTop": "Dovedale East Box",
         "Message": {
-          "BackgroundColor": "60, 199, 196",
+          "BackgroundColor": "55, 125, 247",
           "Text": ""
         }
       }
@@ -811,7 +811,7 @@
         "Route": "345",
         "LineTop": "Marigot Dam",
         "Message": {
-          "BackgroundColor": "244, 202, 96",
+          "BackgroundColor": "55, 125, 247",
           "Text": ""
         }
       },
@@ -832,7 +832,7 @@
         "Route": "345",
         "LineTop": "Marigot Dam",
         "Message": {
-          "BackgroundColor": "244, 202, 96",
+          "BackgroundColor": "55, 125, 247",
           "Text": ""
         }
       }
@@ -849,7 +849,7 @@
         "Route": "345",
         "LineTop": "Dovedale East Signal Box",
         "Message": {
-          "BackgroundColor": "244, 202, 96",
+          "BackgroundColor": "55, 125, 247",
           "Text": ""
         }
       },
@@ -870,7 +870,7 @@
         "Route": "345",
         "LineTop": "Dovedale East Signal Box",
         "Message": {
-          "BackgroundColor": "244, 202, 96",
+          "BackgroundColor": "55, 125, 247",
           "Text": ""
         }
       }
