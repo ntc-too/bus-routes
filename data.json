@@ -689,12 +689,12 @@
       "Map": "",
       "Driver": {
         "Display": "Mazewood",
-        "Code": "231-1"
+        "Code": "231-4"
       },
       "Front": {
-        "LineBottom": "SAT > DE > DC > GE > MW",
+        "LineBottom": "DC <> MW",
         "Line": "",
-        "Route": "231",
+        "Route": "2310",
         "LineTop": "Mazewood",
         "Message": {
           "BackgroundColor": "0, 85, 0",
@@ -702,15 +702,15 @@
         }
       },
       "Rear": {
-        "Route": "231"
+        "Route": "2310"
       },
       "Livery": {
-        "GlassRouteStickerId": "77626970022739",
+        "GlassRouteStickerId": "78776367120513",
         "LDestinationId": "",
         "MainId": "139714560672946",
-        "RDestinationId": "",
-        "SideRouteStickerId": "77626970022739",
-        "RouteId": ""
+        "RDestinationId": "125049102075678",
+        "SideRouteStickerId": "78776367120513",
+        "RouteId": "120904854044400"
       },
       "Side": {
         "LineBottom": "SAT > DE > DC > GE > MW",
@@ -726,35 +726,35 @@
     {
       "Map": "",
       "Driver": {
-        "Display": "Satus",
-        "Code": "231-2"
+        "Display": "DC",
+        "Code": "231-3"
       },
       "Front": {
-        "LineBottom": "MW > GE > DC > DE > SAT",
+        "LineBottom": "MW <> DC",
         "Line": "",
-        "Route": "231",
-        "LineTop": "Satus",
+        "Route": "2310",
+        "LineTop": "Dovedale C",
         "Message": {
           "BackgroundColor": "0, 85, 0",
           "Text": ""
         }
       },
       "Rear": {
-        "Route": "231"
+        "Route": "2310"
       },
       "Livery": {
-        "GlassRouteStickerId": "77626970022739",
+        "GlassRouteStickerId": "78776367120513",
         "LDestinationId": "",
-        "MainId": "139714560672946",
-        "RDestinationId": "",
-        "SideRouteStickerId": "77626970022739",
-        "RouteId": ""
+        "MainId": "81579732389004",
+        "RDestinationId": "125049102075678",
+        "SideRouteStickerId": "78776367120513",
+        "RouteId": "120904854044400"
       },
       "Side": {
-        "LineBottom": "MW > GE > DC > DE > SAT",
+        "LineBottom": "MW <> DC",
         "Line": "",
-        "Route": "231",
-        "LineTop": "Satus",
+        "Route": "2310",
+        "LineTop": "Dovedale C",
         "Message": {
           "BackgroundColor": "0, 85, 0",
           "Text": ""
