@@ -629,11 +629,11 @@
         "Route": "404A"
       },
       "Livery": {
-        "GlassRouteStickerId": "116029468489230",
+        "GlassRouteStickerId": "114316579141250",
         "LDestinationId": "",
         "MainId": "134300230025566",
         "RDestinationId": "95871877464911",
-        "SideRouteStickerId": "116029468489230",
+        "SideRouteStickerId": "114316579141250",
         "RouteId": "121866200086113"
       },
       "Side": {
@@ -667,11 +667,11 @@
         "Route": "404B"
       },
       "Livery": {
-        "GlassRouteStickerId": "116029468489230",
+        "GlassRouteStickerId": "114316579141250",
         "LDestinationId": "",
         "MainId": "134300230025566",
         "RDestinationId": "95871877464911",
-        "SideRouteStickerId": "116029468489230",
+        "SideRouteStickerId": "114316579141250",
         "RouteId": "121866200086113"
       },
       "Side": {
@@ -724,7 +724,7 @@
       }
     },
     {
-      "Map": "",
+      "Map": "93092641424737",
       "Driver": {
         "Display": "Satus",
         "Code": "231-2"
@@ -743,11 +743,11 @@
         "Route": "231"
       },
       "Livery": {
-        "GlassRouteStickerId": "78776367120513",
+        "GlassRouteStickerId": "86545109364918",
         "LDestinationId": "91219531433603",
         "MainId": "139714560672946",
         "RDestinationId": "71828689047142",
-        "SideRouteStickerId": "78776367120513",
+        "SideRouteStickerId": "86545109364918",
         "RouteId": "81515373376768"
       },
       "Side": {
@@ -781,11 +781,11 @@
         "Route": "232"
       },
       "Livery": {
-        "GlassRouteStickerId": "97339304931089",
+        "GlassRouteStickerId": "86545109364918",
         "LDestinationId": "74074664664724",
         "MainId": "110296171518032",
         "RDestinationId": "77583773638973",
-        "SideRouteStickerId": "97339304931089",
+        "SideRouteStickerId": "86545109364918",
         "RouteId": "96362130461977"
       },
       "Side": {
@@ -800,7 +800,7 @@
       }
     },
     {
-      "Map": "",
+      "Map": "132443679705660",
       "Driver": {
         "Display": "Glassbury",
         "Code": "232-2"
