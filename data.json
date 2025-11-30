@@ -685,6 +685,44 @@
         }
       }
     },
+       {
+      "Map": "",
+      "Driver": {
+        "Display": "Cosdale Loop",
+        "Code": "440"
+      },
+      "Front": {
+        "LineBottom": "DE > Wington > Harbour > DC > DE",
+        "Line": "",
+        "Route": "440",
+        "LineTop": "Dovedale West Loop",
+        "Message": {
+          "BackgroundColor": "244, 202, 96",
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "440"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
+        "MainId": "108788161365453",
+        "RDestinationId": "78138365950135",
+        "SideRouteStickerId": "",
+        "RouteId": "79718618249472"
+      },
+      "Side": {
+        "LineBottom": "DE > Wington > Harbour > DC > DE",
+        "Line": "",
+        "Route": "440",
+        "LineTop": "Dovedale West Loop",
+        "Message": {
+          "BackgroundColor": "244, 202, 96",
+          "Text": ""
+        }
+      }
+    },
     {
       "Map": "116903246581626",
       "Driver": {
@@ -907,6 +945,82 @@
         "Line": "",
         "Route": "345",
         "LineTop": "Dovedale East Signal Box",
+        "Message": {
+          "BackgroundColor": "55, 125, 247",
+          "Text": ""
+        }
+      }
+    },
+          {
+      "Map": "",
+      "Driver": {
+        "Display": "Harbour",
+        "Code": "345-3"
+      },
+      "Front": {
+        "LineBottom": "Marigot -> Dovedale C. -> Cosdale",
+        "Line": "",
+        "Route": "345-1",
+        "LineTop": "Cosdale Harbour",
+        "Message": {
+          "BackgroundColor": "55, 125, 247",
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "345-1"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "116672369536359",
+        "LDestinationId": "125924786261314",
+        "MainId": "123316732177201",
+        "RDestinationId": "104736930403621",
+        "SideRouteStickerId": "116672369536359",
+        "RouteId": "100730907111976"
+      },
+      "Side": {
+        "LineBottom": "Marigot -> Dovedale C. -> Cosdale",
+        "Line": "",
+        "Route": "345-1",
+        "LineTop": "Cosdale Harbour",
+        "Message": {
+          "BackgroundColor": "55, 125, 247",
+          "Text": ""
+        }
+      }
+    },
+    {
+      "Map": "",
+      "Driver": {
+        "Display": "Marigot",
+        "Code": "345-4"
+      },
+      "Front": {
+        "LineBottom": "Harbour -> Dovedale C. -> Marigot",
+        "Line": "",
+        "Route": "345-1",
+        "LineTop": "Marigot Dam",
+        "Message": {
+          "BackgroundColor": "55, 125, 247",
+          "Text": ""
+        }
+      },
+      "Rear": {
+        "Route": "345-1"
+      },
+      "Livery": {
+        "GlassRouteStickerId": "116672369536359",
+        "LDestinationId": "125924786261314",
+        "MainId": "123316732177201",
+        "RDestinationId": "104736930403621",
+        "SideRouteStickerId": "116672369536359",
+        "RouteId": "100730907111976"
+      },
+      "Side": {
+        "LineBottom": "Harbour -> Dovedale C. -> Marigot",
+        "Line": "",
+        "Route": "345-1",
+        "LineTop": "Marigot Dam",
         "Message": {
           "BackgroundColor": "55, 125, 247",
           "Text": ""
