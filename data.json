@@ -782,11 +782,11 @@
       },
       "Livery": {
         "GlassRouteStickerId": "",
-        "LDestinationId": "",
-        "MainId": "139714560672946",
-        "RDestinationId": "",
+        "LDestinationId": "103175743987892",
+        "MainId": "94082455167462",
+        "RDestinationId": "107943664110180",
         "SideRouteStickerId": "",
-        "RouteId": ""
+        "RouteId": "98807665965364"
       },
       "Side": {
         "LineBottom": "Mazewood > Satus Police Stn. > Satus",
