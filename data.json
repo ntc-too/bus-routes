@@ -730,7 +730,7 @@
         "Code": "231-1"
       },
       "Front": {
-        "LineBottom": "Satus > Dovedale Central > Mazewood",
+        "LineBottom": "Satus > Satus Stn. > Mazewood",
         "Line": "",
         "Route": "231",
         "LineTop": "Mazewood",
@@ -743,15 +743,15 @@
         "Route": "231"
       },
       "Livery": {
-        "GlassRouteStickerId": "78776367120513",
-        "LDestinationId": "91219531433603",
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
         "MainId": "139714560672946",
-        "RDestinationId": "71828689047142",
-        "SideRouteStickerId": "78776367120513",
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
         "RouteId": "81515373376768"
       },
       "Side": {
-        "LineBottom": "Satus > Dovedale Central > Mazewood",
+        "LineBottom": "Satus > Satus Stn. > Mazewood",
         "Line": "",
         "Route": "231",
         "LineTop": "Mazewood",
@@ -768,7 +768,7 @@
         "Code": "231-2"
       },
       "Front": {
-        "LineBottom": "Mazewood > Dovedale Central > Satus",
+        "LineBottom": "Mazewood > Satus Police Stn. > Satus",
         "Line": "",
         "Route": "231",
         "LineTop": "Satus Station",
@@ -781,15 +781,15 @@
         "Route": "231"
       },
       "Livery": {
-        "GlassRouteStickerId": "86545109364918",
-        "LDestinationId": "91219531433603",
+        "GlassRouteStickerId": "",
+        "LDestinationId": "",
         "MainId": "139714560672946",
-        "RDestinationId": "71828689047142",
-        "SideRouteStickerId": "86545109364918",
-        "RouteId": "81515373376768"
+        "RDestinationId": "",
+        "SideRouteStickerId": "",
+        "RouteId": ""
       },
       "Side": {
-        "LineBottom": "Mazewood > Dovedale Central > Satus",
+        "LineBottom": "Mazewood > Satus Police Stn. > Satus",
         "Line": "",
         "Route": "231",
         "LineTop": "Satus Station",
