@@ -1,5 +1,5 @@
 {
-  "version": 0.1,
+  "version": 0.2,
   "routes": [
     {
       "Map": "",
@@ -268,7 +268,7 @@
       }
     },
     {
-      "Map": "88147210182673",
+      "Map": "87000786162333",
       "Driver": {
         "Display": "Dovedale East Signal Box",
         "Code": "360-4"
@@ -289,7 +289,7 @@
       "Livery": {
         "GlassRouteStickerId": "100364886015231",
         "LDestinationId": "104993777929366",
-        "MainId": "98331018832624",
+        "MainId": "105716178505805",
         "RDestinationId": "112680479547661",
         "SideRouteStickerId": "100364886015231",
         "RouteId": "109989433607004"
