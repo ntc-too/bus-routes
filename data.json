@@ -1,110 +1,1030 @@
 {
-	"version": 2.0,
+	"version": 0.2,
 	"routes": [
 	{
 		"Map": "",
-		"Dtisdestsg1": "",
-		"Dtisdestsg2": "",
-		"Dtisdestsg3": "",
-		"Dtisdest1sg1": "",
-		"Dtisdest1sg2": "",
-		"Dtisdest1sg3": "",
 		"Driver": {
 			"Display": "",
 			"Code": "OFF"
 		},
 		"Front": {
-			"fst": "",
-			"snd": "",
-			"trd": "",
-			"fth": "",
-			"fif": "",
-			"sxh": "",
-			"svh": "",
-			"eth": "",
-		},
-		"Left": {
-			"fst": "",
-			"snd": "",
-			"trd": "",
-			"fth": "",
-			"fif": "",
-			"sxh": "",
-			"svh": "",
-			"eth": "",
-		},
-		"Right": {
-			"fst": "",
-			"snd": "",
-			"trd": "",
-			"fth": "",
-			"fif": "",
-			"sxh": "",
-			"svh": "",
-			"eth": "",
+			"LineBottom": "",
+			"Line": "",
+			"Route": "",
+			"LineTop": "",
+			"Message": {
+				"BackgroundColor": null,
+				"Text": ""
+			}
 		},
 		"Rear": {
 			"Route": ""
 		},
 		"Livery": {
+			"GlassRouteStickerId": "",
 			"LDestinationId": "",
 			"MainId": "",
 			"RDestinationId": "",
-			"InternalSticker": "",
+			"SideRouteStickerId": "",
 			"RouteId": ""
+		},
+		"Side": {
+			"LineBottom": "",
+			"Line": "",
+			"Route": "",
+			"LineTop": "",
+			"Message": {
+				"BackgroundColor": null,
+				"Text": ""
+			}
 		}
 	},
 	{
-		"Map": "",
-		"Dtisdestsg1": "",
-		"Dtisdestsg2": "",
-		"Dtisdestsg3": "",
-		"Dtisdest1sg1": "",
-		"Dtisdest1sg2": "",
-		"Dtisdest1sg3": "",
+		"Map": "77867868715826",
 		"Driver": {
-			"Display": "Not In Service",
-			"Code": "NIS"
+			"Display": "RAIL REPLACEMENT",
+			"Code": "RR"
 		},
 		"Front": {
-			"fst": "130675004261227",
-			"snd": "",
-			"trd": "",
-			"fth": "",
-			"fif": "",
-			"sxh": "",
-			"svh": "",
-			"eth": "",
+			"LineBottom": "Choo Choo! I'm a train!",
+			"Line": "",
+			"Route": "RR",
+			"LineTop": "Rail Replacement",
+			"Message": {
+				"BackgroundColor": null,
+				"Text": ""
+			}
 		},
-		"Left": {
-			"fst": "130675004261227",
-			"snd": "126504078563300",
-			"trd": "130675004261227",
-			"fth": "126504078563300",
-			"fif": "130675004261227",
-			"sxh": "126504078563300",
-			"svh": "130675004261227",
-			"eth": "126504078563300",
+		"Rear": {
+			"Route": "RR"
 		},
-		"Right": {
-			"fst": "130675004261227",
-			"snd": "126504078563300",
-			"trd": "130675004261227",
-			"fth": "126504078563300",
-			"fif": "130675004261227",
-			"sxh": "126504078563300",
-			"svh": "130675004261227",
-			"eth": "126504078563300",
+		"Livery": {
+			"GlassRouteStickerId": "",
+			"LDestinationId": "",
+			"MainId": "102387457536597",
+			"RDestinationId": "",
+			"SideRouteStickerId": "",
+			"RouteId": "78969549488912"
+		},
+		"Side": {
+			"LineBottom": "Choo Choo! I'm a train!",
+			"Line": "",
+			"Route": "RR",
+			"LineTop": "Rail Replacement",
+			"Message": {
+				"BackgroundColor": null,
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "77867868715826",
+		"Driver": {
+			"Display": "Mod Bus",
+			"Code": "MOD"
+		},
+		"Front": {
+			"LineBottom": "",
+			"Line": "Moderating Dovedale",
+			"Route": "MOD",
+			"LineTop": "",
+			"Message": {
+				"BackgroundColor": "184, 85, 255",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "MOD"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "",
+			"LDestinationId": "",
+			"MainId": "86170297650321",
+			"RDestinationId": "93781708779563",
+			"SideRouteStickerId": "",
+			"RouteId": "72637508886397"
+		},
+		"Side": {
+			"LineBottom": "",
+			"Line": "Moderating Dovedale",
+			"Route": "MOD",
+			"LineTop": "",
+			"Message": {
+				"BackgroundColor": "184, 85, 255",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "77867868715826",
+		"Driver": {
+			"Display": "SPECIAL",
+			"Code": "SS"
+		},
+		"Front": {
+			"LineBottom": "",
+			"Line": "",
+			"Route": "",
+			"LineTop": "",
+			"Message": {
+				"BackgroundColor": null,
+				"Text": "Special"
+			}
+		},
+		"Rear": {
+			"Route": "Special"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "",
+			"LDestinationId": "",
+			"MainId": "103785873535740",
+			"RDestinationId": "",
+			"SideRouteStickerId": "",
+			"RouteId": ""
+		},
+		"Side": {
+			"LineBottom": "",
+			"Line": "",
+			"Route": "",
+			"LineTop": "",
+			"Message": {
+				"BackgroundColor": null,
+				"Text": "Special"
+			}
+		}
+	},
+	{
+		"Map": "133434785445193",
+		"Driver": {
+			"Display": "Fanory Mill",
+			"Code": "360-1"
+		},
+		"Front": {
+			"LineBottom": "Satus > Conby > Fanory Mill",
+			"Line": "",
+			"Route": "360",
+			"LineTop": "Fanory Mill",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "360"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "109262839085091",
+			"LDestinationId": "109900164061936",
+			"MainId": "123316732177201",
+			"RDestinationId": "90271534050958",
+			"SideRouteStickerId": "109262839085091",
+			"RouteId": "86263913916037"
+		},
+		"Side": {
+			"LineBottom": "Satus > Conby > Fanory Mill",
+			"Line": "",
+			"Route": "360",
+			"LineTop": "Fanory Mill",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "132531457000608",
+		"Driver": {
+			"Display": "Satus",
+			"Code": "360-2"
+		},
+		"Front": {
+			"LineBottom": "Fanory Mill > Conby > Satus",
+			"Line": "",
+			"Route": "360",
+			"LineTop": "Satus Station",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "360"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "109262839085091",
+			"LDestinationId": "109900164061936",
+			"MainId": "103785873535740",
+			"RDestinationId": "90271534050958",
+			"SideRouteStickerId": "109262839085091",
+			"RouteId": "86263913916037"
+		},
+		"Side": {
+			"LineBottom": "Fanory Mill > Conby > Satus",
+			"Line": "",
+			"Route": "360",
+			"LineTop": "Satus Station",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "90155695753115",
+		"Driver": {
+			"Display": "Satus (Constable Links)",
+			"Code": "360A-1"
+		},
+		"Front": {
+			"LineBottom": "DE Box > DE > Satus",
+			"Line": "",
+			"Route": "360A",
+			"LineTop": "Satus (Constable Links)",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "360A"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "100364886015231",
+			"LDestinationId": "104993777929366",
+			"MainId": "105716178505805",
+			"RDestinationId": "112680479547661",
+			"SideRouteStickerId": "100364886015231",
+			"RouteId": "109989433607004"
+		},
+		"Side": {
+			"LineBottom": "DE Box > DE > Satus",
+			"Line": "",
+			"Route": "360A",
+			"LineTop": "Satus (Constable Links)",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "87000786162333",
+		"Driver": {
+			"Display": "Dovedale East Signal Box",
+			"Code": "360-4"
+		},
+		"Front": {
+			"LineBottom": "Satus > Dovedale East",
+			"Line": "",
+			"Route": "360A",
+			"LineTop": "Dovedale East Box",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "360A"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "100364886015231",
+			"LDestinationId": "104993777929366",
+			"MainId": "105716178505805",
+			"RDestinationId": "112680479547661",
+			"SideRouteStickerId": "100364886015231",
+			"RouteId": "109989433607004"
+		},
+		"Side": {
+			"LineBottom": "Satus > Dovedale East",
+			"Line": "",
+			"Route": "360A",
+			"LineTop": "Dovedale East Box",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "123076182925877",
+		"Driver": {
+			"Display": "(Night Bus) Masonfield",
+			"Code": "360-5"
+		},
+		"Front": {
+			"LineBottom": "Fanory > Satus > Dovedale > Masonfield",
+			"Line": "",
+			"Route": "N360",
+			"LineTop": "Masonfield Stn.",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "N360"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "73233719314134",
+			"LDestinationId": "104850788509821",
+			"MainId": "128443757550126",
+			"RDestinationId": "97191610655259",
+			"SideRouteStickerId": "73233719314134",
+			"RouteId": "73780632375213"
+		},
+		"Side": {
+			"LineBottom": "Fanory > Satus > Dovedale > Masonfield",
+			"Line": "",
+			"Route": "N360",
+			"LineTop": "Masonfield Stn.",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "98852990497403",
+		"Driver": {
+			"Display": "(Night Bus) Fanory BTR",
+			"Code": "360-6"
+		},
+		"Front": {
+			"LineBottom": "Masonfield > Dovedale > Satus > Fanory",
+			"Line": "",
+			"Route": "N360",
+			"LineTop": "Fanory BTR",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "N360"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "73233719314134",
+			"LDestinationId": "104850788509821",
+			"MainId": "128443757550126",
+			"RDestinationId": "97191610655259",
+			"SideRouteStickerId": "73233719314134",
+			"RouteId": "73780632375213"
+		},
+		"Side": {
+			"LineBottom": "Masonfield > Dovedale > Satus > Fanory",
+			"Line": "",
+			"Route": "N360",
+			"LineTop": "Fanory BTR",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "117080106184116",
+		"Driver": {
+			"Display": "DOVEDALE E.",
+			"Code": "849-1"
+		},
+		"Front": {
+			"LineBottom": "Fanory Mill > Conby > Satus > Dovedale E.",
+			"Line": "",
+			"Route": "849",
+			"LineTop": "Dovedale E.",
+			"Message": {
+				"BackgroundColor": "99, 127, 188",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "849"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "98707011100586",
+			"LDestinationId": "127540146486104",
+			"MainId": "108747303769171",
+			"RDestinationId": "120266108179565",
+			"SideRouteStickerId": "98707011100586",
+			"RouteId": "84576725502586"
+		},
+		"Side": {
+			"LineBottom": "Fanory Mill > Conby > Satus > Dovedale E.",
+			"Line": "",
+			"Route": "849",
+			"LineTop": "Dovedale E.",
+			"Message": {
+				"BackgroundColor": "99, 127, 188",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "114715311951973",
+		"Driver": {
+			"Display": "FANORY MILL",
+			"Code": "849-2"
+		},
+		"Front": {
+			"LineBottom": "Dovedale E > Satus > Conby > Fanory Mill",
+			"Line": "",
+			"Route": "849",
+			"LineTop": "Fanory Mill",
+			"Message": {
+				"BackgroundColor": "97, 127, 188",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "849"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "98707011100586",
+			"LDestinationId": "127540146486104",
+			"MainId": "108747303769171",
+			"RDestinationId": "120266108179565",
+			"SideRouteStickerId": "98707011100586",
+			"RouteId": "84576725502586"
+		},
+		"Side": {
+			"LineBottom": "Dovedale E > Satus > Conby > Fanory Mill",
+			"Line": "",
+			"Route": "849",
+			"LineTop": "Fanory Mill",
+			"Message": {
+				"BackgroundColor": "97, 127, 188",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "112011249012335",
+		"Driver": {
+			"Display": "Fanory Express",
+			"Code": "161-1"
+		},
+		"Front": {
+			"LineBottom": "Mazewood > Gleethrop > Dovedale E. > Fanory",
+			"Line": "",
+			"Route": "161",
+			"LineTop": "Fanory Mill",
+			"Message": {
+				"BackgroundColor": "208, 61, 51",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "161"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "79449504828155",
+			"LDestinationId": "111070592120091",
+			"MainId": "131637402937640",
+			"RDestinationId": "73867729853632",
+			"SideRouteStickerId": "79449504828155",
+			"RouteId": "95527729495966"
+		},
+		"Side": {
+			"LineBottom": "Mazewood > Gleethrop > Dovedale E. > Fanory",
+			"Line": "",
+			"Route": "161",
+			"LineTop": "Fanory Mill",
+			"Message": {
+				"BackgroundColor": "208, 61, 51",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "138873235489601",
+		"Driver": {
+			"Display": "Mazewood Express",
+			"Code": "161-2"
+		},
+		"Front": {
+			"LineBottom": "Fanory > Dovedale E. > Gleethrop > Mazewood",
+			"Line": "",
+			"Route": "161",
+			"LineTop": "Mazewood",
+			"Message": {
+				"BackgroundColor": "208, 61, 51",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "161"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "79449504828155",
+			"LDestinationId": "111070592120091",
+			"MainId": "131637402937640",
+			"RDestinationId": "73867729853632",
+			"SideRouteStickerId": "79449504828155",
+			"RouteId": "95527729495966"
+		},
+		"Side": {
+			"LineBottom": "Fanory > Dovedale E. > Gleethrop > Mazewood",
+			"Line": "",
+			"Route": "161",
+			"LineTop": "Mazewood",
+			"Message": {
+				"BackgroundColor": "208, 61, 51",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "77867868715826",
+		"Driver": {
+			"Display": "NIS",
+			"Code": "NOT IN SERVICE"
+		},
+		"Front": {
+			"LineBottom": "",
+			"Line": "",
+			"Route": "",
+			"LineTop": "",
+			"Message": {
+				"BackgroundColor": "244, 202, 96",
+				"Text": "NOT IN SERVICE"
+			}
 		},
 		"Rear": {
 			"Route": "NIS"
 		},
 		"Livery": {
+			"GlassRouteStickerId": "",
 			"LDestinationId": "",
 			"MainId": "",
 			"RDestinationId": "",
-			"InternalSticker": "",
+			"SideRouteStickerId": "",
 			"RouteId": ""
+		},
+		"Side": {
+			"LineBottom": "",
+			"Line": "",
+			"Route": "",
+			"LineTop": "",
+			"Message": {
+				"BackgroundColor": "244, 202, 96",
+				"Text": "NOT IN SERVICE"
+			}
+		}
+	},
+	{
+		"Map": "74478473890638",
+		"Driver": {
+			"Display": "DOVEDALE WEST LOOP",
+			"Code": "404A"
+		},
+		"Front": {
+			"LineBottom": "DC > MC > MS > CC > DC",
+			"Line": "",
+			"Route": "404A",
+			"LineTop": "Dovedale West Loop",
+			"Message": {
+				"BackgroundColor": "244, 202, 96",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "404A"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "114316579141250",
+			"LDestinationId": "",
+			"MainId": "134300230025566",
+			"RDestinationId": "95871877464911",
+			"SideRouteStickerId": "114316579141250",
+			"RouteId": "121866200086113"
+		},
+		"Side": {
+			"LineBottom": "DC > MC > MS > CC > DC",
+			"Line": "",
+			"Route": "404A",
+			"LineTop": "Dovedale West Loop",
+			"Message": {
+				"BackgroundColor": "244, 202, 96",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "116029468489230",
+		"Driver": {
+			"Display": "DOVEDALE WEST LOOP",
+			"Code": "404B"
+		},
+		"Front": {
+			"LineBottom": "DC > CC > MS > MC > DC",
+			"Line": "",
+			"Route": "404B",
+			"LineTop": "Dovedale West Loop",
+			"Message": {
+				"BackgroundColor": "244, 202, 96",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "404B"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "114316579141250",
+			"LDestinationId": "",
+			"MainId": "134300230025566",
+			"RDestinationId": "95871877464911",
+			"SideRouteStickerId": "114316579141250",
+			"RouteId": "121866200086113"
+		},
+		"Side": {
+			"LineBottom": "DC > CC > MS > MC > DC",
+			"Line": "",
+			"Route": "404B",
+			"LineTop": "Dovedale West Loop",
+			"Message": {
+				"BackgroundColor": "244, 202, 96",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "131425047457587",
+		"Driver": {
+			"Display": "Cosdale Loop",
+			"Code": "440"
+		},
+		"Front": {
+			"LineBottom": "DE > Wington > Harbour > DC > DE",
+			"Line": "",
+			"Route": "440",
+			"LineTop": "Dovedale West Loop",
+			"Message": {
+				"BackgroundColor": "244, 202, 96",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "440"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "",
+			"LDestinationId": "113116743397715",
+			"MainId": "101370043035809",
+			"RDestinationId": "92784525988931",
+			"SideRouteStickerId": "",
+			"RouteId": "88590996520459"
+		},
+		"Side": {
+			"LineBottom": "DE > Wington > Harbour > DC > DE",
+			"Line": "",
+			"Route": "440",
+			"LineTop": "Dovedale West Loop",
+			"Message": {
+				"BackgroundColor": "244, 202, 96",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "116903246581626",
+		"Driver": {
+			"Display": "Mazewood",
+			"Code": "231-1"
+		},
+		"Front": {
+			"LineBottom": "Satus > Satus Stn. > Mazewood",
+			"Line": "",
+			"Route": "231",
+			"LineTop": "Mazewood",
+			"Message": {
+				"BackgroundColor": "0, 85, 0",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "231"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "",
+			"LDestinationId": "103175743987892",
+			"MainId": "94082455167462",
+			"RDestinationId": "107943664110180",
+			"SideRouteStickerId": "",
+			"RouteId": "98807665965364"
+		},
+		"Side": {
+			"LineBottom": "Satus > Satus Stn. > Mazewood",
+			"Line": "",
+			"Route": "231",
+			"LineTop": "Mazewood",
+			"Message": {
+				"BackgroundColor": "0, 85, 0",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "93092641424737",
+		"Driver": {
+			"Display": "Satus",
+			"Code": "231-2"
+		},
+		"Front": {
+			"LineBottom": "Mazewood > Satus Police Stn. > Satus",
+			"Line": "",
+			"Route": "231",
+			"LineTop": "Satus Station",
+			"Message": {
+				"BackgroundColor": "0, 85, 0",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "231"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "",
+			"LDestinationId": "103175743987892",
+			"MainId": "94082455167462",
+			"RDestinationId": "107943664110180",
+			"SideRouteStickerId": "",
+			"RouteId": "98807665965364"
+		},
+		"Side": {
+			"LineBottom": "Mazewood > Satus Police Stn. > Satus",
+			"Line": "",
+			"Route": "231",
+			"LineTop": "Satus Station",
+			"Message": {
+				"BackgroundColor": "0, 85, 0",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "119235697951108",
+		"Driver": {
+			"Display": "Mazewood",
+			"Code": "232-1"
+		},
+		"Front": {
+			"LineBottom": "Glassbury > Codsall > Gleethrop > Mazewood",
+			"Line": "",
+			"Route": "232",
+			"LineTop": "Mazewood",
+			"Message": {
+				"BackgroundColor": "0, 85, 0",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "232"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "86545109364918",
+			"LDestinationId": "74074664664724",
+			"MainId": "110296171518032",
+			"RDestinationId": "77583773638973",
+			"SideRouteStickerId": "86545109364918",
+			"RouteId": "96362130461977"
+		},
+		"Side": {
+			"LineBottom": "Glassbury > Codsall > Gleethrop > Mazewood",
+			"Line": "",
+			"Route": "232",
+			"LineTop": "Mazewood",
+			"Message": {
+				"BackgroundColor": "0, 85, 0",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "132443679705660",
+		"Driver": {
+			"Display": "Glassbury",
+			"Code": "232-2"
+		},
+		"Front": {
+			"LineBottom": "Mazewood > Gleethrop > Codsall > Glassbury",
+			"Line": "",
+			"Route": "232",
+			"LineTop": "Glassbury Town",
+			"Message": {
+				"BackgroundColor": "0, 85, 0",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "232"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "97339304931089",
+			"LDestinationId": "74074664664724",
+			"MainId": "110296171518032",
+			"RDestinationId": "77583773638973",
+			"SideRouteStickerId": "97339304931089",
+			"RouteId": "96362130461977"
+		},
+		"Side": {
+			"LineBottom": "Mazewood > Gleethrop > Codsall > Glassbury",
+			"Line": "",
+			"Route": "232",
+			"LineTop": "Glassbury Town",
+			"Message": {
+				"BackgroundColor": "0, 85, 0",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "83011145435651",
+		"Driver": {
+			"Display": "Marigot",
+			"Code": "345-1"
+		},
+		"Front": {
+			"LineBottom": "DE > DC > Marigot > Dam",
+			"Line": "",
+			"Route": "345",
+			"LineTop": "Marigot Dam",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "345"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "70527484965022",
+			"LDestinationId": "125924786261314",
+			"MainId": "123316732177201",
+			"RDestinationId": "104736930403621",
+			"SideRouteStickerId": "70527484965022",
+			"RouteId": "100730907111976"
+		},
+		"Side": {
+			"LineBottom": "DE > DC > Marigot > Dam",
+			"Line": "",
+			"Route": "345",
+			"LineTop": "Marigot Dam",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "129534479312420",
+		"Driver": {
+			"Display": "DOVEDALE E.",
+			"Code": "345-2"
+		},
+		"Front": {
+			"LineBottom": "Dam > Marigot > DC > DE",
+			"Line": "",
+			"Route": "345",
+			"LineTop": "Dovedale East Signal Box",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "345"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "70527484965022",
+			"LDestinationId": "125924786261314",
+			"MainId": "123316732177201",
+			"RDestinationId": "104736930403621",
+			"SideRouteStickerId": "70527484965022",
+			"RouteId": "100730907111976"
+		},
+		"Side": {
+			"LineBottom": "Dam > Marigot > DC > DE",
+			"Line": "",
+			"Route": "345",
+			"LineTop": "Dovedale East Signal Box",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "73644223485816",
+		"Driver": {
+			"Display": "Harbour",
+			"Code": "345-3"
+		},
+		"Front": {
+			"LineBottom": "Marigot -> Dovedale C. -> Cosdale",
+			"Line": "",
+			"Route": "345-1",
+			"LineTop": "Cosdale Harbour",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "345-1"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "70527484965022",
+			"LDestinationId": "137576620607891",
+			"MainId": "105716178505805",
+			"RDestinationId": "87748383969321",
+			"SideRouteStickerId": "70527484965022",
+			"RouteId": "71934211580839"
+		},
+		"Side": {
+			"LineBottom": "Marigot -> Dovedale C. -> Cosdale",
+			"Line": "",
+			"Route": "345-1",
+			"LineTop": "Cosdale Harbour",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "117694749083010",
+		"Driver": {
+			"Display": "Marigot",
+			"Code": "345-4"
+		},
+		"Front": {
+			"LineBottom": "Harbour -> Dovedale C. -> Marigot",
+			"Line": "",
+			"Route": "345-1",
+			"LineTop": "Marigot Dam",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "345-1"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "70527484965022",
+			"LDestinationId": "137576620607891",
+			"MainId": "105716178505805",
+			"RDestinationId": "87748383969321",
+			"SideRouteStickerId": "70527484965022",
+			"RouteId": "71934211580839"
+		},
+		"Side": {
+			"LineBottom": "Harbour -> Dovedale C. -> Marigot",
+			"Line": "",
+			"Route": "345-1",
+			"LineTop": "Marigot Dam",
+			"Message": {
+				"BackgroundColor": "55, 125, 247",
+				"Text": ""
+			}
+		}
+	},
+	{
+		"Map": "82119868430603",
+		"Driver": {
+			"Display": "DOVEDALE SHUTTLE",
+			"Code": "45"
+		},
+		"Front": {
+			"LineBottom": "",
+			"Line": "Dovedale Shuttle",
+			"Route": "45",
+			"LineTop": "",
+			"Message": {
+				"BackgroundColor": "244, 202, 96",
+				"Text": ""
+			}
+		},
+		"Rear": {
+			"Route": "45"
+		},
+		"Livery": {
+			"GlassRouteStickerId": "101633151819870",
+			"LDestinationId": "83061427501727",
+			"MainId": "134300230025566",
+			"RDestinationId": "115412875813956",
+			"SideRouteStickerId": "101633151819870",
+			"RouteId": "110012841419497"
+		},
+		"Side": {
+			"LineBottom": "Dovedale East <> Dovedale Central",
+			"Line": "",
+			"Route": "45",
+			"LineTop": "Dovedale Shuttle",
+			"Message": {
+				"BackgroundColor": "244, 202, 96",
+				"Text": ""
+			}
 		}
 	}
 	]
